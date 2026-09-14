@@ -41,6 +41,7 @@ jobs:
           git add dist/data dist/assets/crests
           if ! git diff --cached --quiet; then
             git commit -m "Refresh verified football data"
+            git pull --rebase origin main
             git push
           fi
       - uses: actions/configure-pages@v5
