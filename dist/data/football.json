@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T22:40:53.662Z",
+  "generatedAt": "2026-09-15T23:13:45.899Z",
   "refreshMinutes": 30,
   "timezone": "Asia/Seoul",
   "health": [
@@ -73,7 +73,7 @@
       "logo": "./assets/crests/e8c374e829539884.png",
       "league": "프리미어리그",
       "source": "FotMob",
-      "fetchedAt": "2026-09-15T22:40:53.662Z",
+      "fetchedAt": "2026-09-15T23:13:45.899Z",
       "stale": false,
       "matches": [
         {
@@ -104,7 +104,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/ipswich-town-vs-manchester-united/3d0uj5#5795432",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -143,7 +143,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/everton-vs-manchester-united/2ynv4k#5795438",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -182,7 +182,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/manchester-united-vs-sabah-fk/5wn180eq#6106293",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "27",
@@ -254,7 +254,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/manchester-city-vs-manchester-united/2wabz2#5795452",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "60",
@@ -302,7 +302,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/brighton-hove-albion-vs-manchester-united/3goccs#6099329",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -341,7 +341,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/fulham-vs-manchester-united/3cqww9#5795459",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -380,7 +380,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#5795473",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -419,7 +419,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/atletico-madrid-vs-manchester-united/3d2krr#6106267",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -458,7 +458,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/leeds-united-vs-manchester-united/2wd539#5795480",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -497,7 +497,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/como-vs-manchester-united/3g9vos#6106410",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -536,7 +536,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/afc-bournemouth-vs-manchester-united/2yrx85#5795493",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -575,7 +575,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/chelsea-vs-manchester-united/2w9xj5#5795498",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -614,7 +614,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/roma-vs-manchester-united/2yv65t#6106291",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -647,7 +647,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401915308/as-roma-manchester-united",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -679,7 +679,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/aston-villa-vs-manchester-united/3h9f6s#5795512",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -718,7 +718,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/liverpool-vs-manchester-united/2ygkcb#5795521",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -734,7 +734,7 @@
         "league": "프리미어리그",
         "leagueId": "47",
         "season": "2026/2027",
-        "fetchedAt": "2026-09-15T22:40:53.662Z",
+        "fetchedAt": "2026-09-15T23:13:45.899Z",
         "source": "FotMob",
         "sourceUrl": "https://www.fotmob.com/leagues/47/overview/premier-league",
         "rows": [
@@ -1023,13 +1023,13 @@
       "news": [
         {
           "title": "'충격! 벌써 경질→후임자 등장' 13위로 부진한 맨체스터 유나이티드 사령탑 교체 시나리오, 마이클 캐릭 경질→'야인' 안토니오 콘테 모셔온다",
-          "source": "스포츠조선",
+          "source": "sportschosun.com",
           "publishedAt": "2026-09-15T21:25:22.000Z",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jcHlWejBIRFBFRTl2anhPLTNLSXM4SW1HWUxhbmhKeDRjMHl4LUdfRGwwUjV6ckd1eU9NTjFOTjdDNmZSYXRCUWF2aG1fZ25PVWIwWWpDUXpwVlZpdUk5ajA3Zkp4bmxmbFhWYmpWTWlGRnRtaEJja2o1NEllQQ?oc=5"
         },
         {
           "title": "충격! 맨체스터 유나이티드 ‘감독 경질’ 후 새 사령탑 선임 미래에 관심 집중 “이대로 가면 캐릭은 물러날 수 ...",
-          "source": "스포츠경향",
+          "source": "sports.khan.co.kr",
           "publishedAt": "2026-09-15T21:06:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGTFJ3eHo3OUhvY2RaUTRFaGlMVU1MaVU4Q1JPMmpiQmZreUZ6c3pJd3pXdk9UOVR1R21lQzF1djhGTElTa0RxN2hhalExWU40YTI1TEhESmx3UVhWOGfSAWNBVV95cUxQN2tOMjVhQ2Y4WXFBT1hFNkR0a3JiMXNtcHdRS3gtbEgwdWxyc1phcVZNYk96a25JZS0wUW83blJtRWVRZE55SE9aaGdVWWNCR1BlY01mRllZdG9KbkR0UmEzeTg?oc=5"
         },
@@ -1049,7 +1049,7 @@
           "title": "“떠나겠습니다” 공식입장 전달, 맨체스터 유나이티드와 이별 결심한 15세 ‘英 특급 재능’…즉시 계약해지 요청→팀 훈련 불참",
           "source": "v.daum.net",
           "publishedAt": "2026-09-15T15:51:09.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hdHV1VnRIRmZEVkU4TXV6QmF4aWhncFdTcWpnV3R5ekEyWHFHTFZuZDdzYkduQmtrM1RNSV9RaEgxV1VXSG9nMjBMMG1aR1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnUXZ0VHo1UHBfWllhN0lSN1N6WGtoUU1yQ2FMNkkzWmZZV0dpcTB5Rzc5UE1YZmtHS0R1aWRCR1FkWkpjZVE?oc=5"
         },
         {
           "title": "복귀를 위해 힘쓰는 발레바",
@@ -1058,19 +1058,19 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFdBRGlYSy0zWFR1MElCdzBWMzZobmJpSlh1clVnaUFGWXVCaHhBUDRzVV9WR0pzT3ZIcml0RjJnVXZRdHktZE1BQ2VvSGphOW44NEs0Y1NaYndPekFudW1hUy1nZ2VjVkxuMnBKUjhiNkNkNkQwanV2ajFTVHV1SUUyeTloeWdtNWEw?oc=5"
         },
         {
-          "title": "'EPL 감독 경질 예상 순위 TOP 20' … 맨유 캐릭 '5위', 토트넘 데 제르비 '3위'",
-          "source": "뉴데일리",
-          "publishedAt": "2026-09-15T08:00:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0c5MUJUTXJRVTBHd0dPTnFsTlhBSTc5VjFrbEl5aHVzZnkwU0k5U3lwTmZtN3dJUzhtRlRKVkoyM3RKVDJpNFdoX3pyLUZEbkJNN216Q2FWM0UzSmJMbTRDNEdJaldzYlFYd290RENpSUlKVGwwNWdSaF94R2VkV9IBgAFBVV95cUxQN0c5MUJUTXJRVTBHd0dPTnFsTlhBSTc5VjFrbEl5aHVzZnkwU0k5U3lwTmZtN3dJUzhtRlRKVkoyM3RKVDJpNFdoX3pyLUZEbkJNN216Q2FWM0UzSmJMbTRDNEdJaldzYlFYd290RENpSUlKVGwwNWdSaF94R2VkVw?oc=5"
-        },
-        {
           "title": "'맨체스터 유나이티드가 제대로 눈독 들였다!' 지난 시즌 51경기 '8골 17도움' 폭발한 인터밀란 LB… 최대 900억원+바르셀로나도 관심",
           "source": "fourfourtwo.co.kr",
           "publishedAt": "2026-09-15T07:38:51.000Z",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNEtWM3dKaVdLTkxBQ1E5THFuS01hdG16Y3k4RWZrWnJqUGRGY0JHUk5HUnVBTDBvWlVDM3JsTXBsNTRaOW9wTGFydGdINExjVFIzQnp1M2NaM2JBT0hiUlFBRnhuZk1BZ0ViOVVrRG4?oc=5"
+        },
+        {
+          "title": "'마이누, 폴 스콜스 수준에 도달 가능하다' 맨체스터 유나이티드 레전드 라이언 긱스의 후배 극찬..'정확한 중거리 전환 패스 장착이 열쇠'",
+          "source": "sportschosun.com",
+          "publishedAt": "2026-09-15T06:30:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwUWJTQjU3RjU4djQ2ZTVKd19VMm5VakNORWhpbGJ4dGtFczA5VW1lcDIwS1dpcnU0OUkwM05PX1ptZEoxM0R0V0ZfOGt1am9TUnZJMlpmdWJNOFEtOVZidkFDTzR6aXlEU3o3V0hEMlB3WS1MbW1rWFI0dGtEUQ?oc=5"
         }
       ],
-      "newsFetchedAt": "2026-09-15T22:40:53.662Z",
+      "newsFetchedAt": "2026-09-15T23:13:45.899Z",
       "newsStale": false,
       "logoOriginal": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png"
     },
@@ -1085,7 +1085,7 @@
       "logo": "./assets/crests/be7e1a553bff0cf5.png",
       "league": "프리미어리그",
       "source": "FotMob",
-      "fetchedAt": "2026-09-15T22:40:53.662Z",
+      "fetchedAt": "2026-09-15T23:13:45.899Z",
       "stale": false,
       "matches": [
         {
@@ -1116,7 +1116,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-newcastle-united/2xr2ka#5795434",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -1155,7 +1155,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl#5795444",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -1194,7 +1194,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-everton/2gmqxt#5795454",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "complete",
           "alternative": {
@@ -1233,7 +1233,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-liverpool/2gg3ek#6099335",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "21",
@@ -1305,7 +1305,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-aston-villa/2xnfpj#5795464",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1344,7 +1344,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-manchester-united/2xqo0r#5795473",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1383,7 +1383,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-coventry-city/2gn495#5795484",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1422,7 +1422,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/chelsea-vs-tottenham-hotspur/2eggkj#5795487",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1461,7 +1461,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1500,7 +1500,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/leeds-united-vs-tottenham-hotspur/2ejdsf#5795511",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1539,7 +1539,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-ipswich-town/2trgfe#5795524",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1578,7 +1578,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/sunderland-vs-tottenham-hotspur/2emo7x#5795534",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1617,7 +1617,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-fulham/2tici0#5795544",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1656,7 +1656,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-arsenal/2sx06r#5795554",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -1695,7 +1695,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/tottenham-hotspur-vs-hull-city/2gmdmi#5795560",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -1728,7 +1728,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401879205/tottenham-hotspur-hull-city",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         }
@@ -1737,7 +1737,7 @@
         "league": "프리미어리그",
         "leagueId": "47",
         "season": "2026/2027",
-        "fetchedAt": "2026-09-15T22:40:53.662Z",
+        "fetchedAt": "2026-09-15T23:13:45.899Z",
         "source": "FotMob",
         "sourceUrl": "https://www.fotmob.com/leagues/47/overview/premier-league",
         "rows": [
@@ -2025,8 +2025,14 @@
       },
       "news": [
         {
+          "title": "토트넘 드디어 '1골' 넣었지만, 승리는 없다 … 5G 무승",
+          "source": "뉴데일리",
+          "publishedAt": "2026-09-15T22:36:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFbFR3R0ZOYndmckctOEVwZ1RfdVI1eFJ4aU5tRFZIa1FZTEdhcXpGaVIwcXQxTHBsUlg4S29IN21wWkl0a2l0RzJDdlNWbWxkVC1CRTlUeFdPazV2T3NsOXFlZzVsa0tDLTFaUXJmNWR5RmoyNzRxMFlDMNIBgAFBVV95cUxPTXBiLWNRZ0dHQTdQQXBfajhrXzhtOXRqS0dtNDMwM3g1eF9BdnFQbTZOenFtWVBWZmdhY0RiQzRvUjl6cmY0bENFRTdDbjF5akpTTFlkdzIzeG5wWDJ3alA4OFZUUEp3ZkVBM3gxZDNkODVJTkZHc2xOM2dpTk93Yg?oc=5"
+        },
+        {
           "title": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌...",
-          "source": "스포츠경향",
+          "source": "sports.khan.co.kr",
           "publishedAt": "2026-09-15T22:07:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6OXl4MUpIMGJ4NDdHZmNZN1V3ZmF1MlU5cENhQ2RaTVNuei1HLXFleWFnbUhZdVhOX2d1Rk9MUWFOVHlIM2JNeEthNC0yUWRTU1FiOGd1dmJtQnYzQlHSAWNBVV95cUxNODI1ZE1LVE9TakpzUjIwM1ZEamZhTGsyOVlwZTZJaWQwS1lraEFoNjYweDBhM0ZmU1dObTRTMmRhR0pkUTBtSnBYOVVCVk1IYUJjTEFvWDBrZFFiMnlURDZrN00?oc=5"
         },
@@ -2044,7 +2050,7 @@
         },
         {
           "title": "“강도질이다” 144년 구단 역사상 ‘최악의 불명예’ 작성한 토트넘 감독 데 제르비 향해 쏟아진 맹비난",
-          "source": "스포츠경향",
+          "source": "sports.khan.co.kr",
           "publishedAt": "2026-09-15T19:04:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTMmRQX25rTFZma2hOZUZTQ0RpV0p2bF9pRTlZOU5YOTVQckFmWXZNM3Z6Y3Bhel95MjQ3eS1aNWZWdDJVbzVhZTVxY0lpQ3lRWmtiT0k3dTBKMERwNWM1ai04Z9IBY0FVX3lxTFBTMmRQX25rTFZma2hOZUZTQ0RpV0p2bF9pRTlZOU5YOTVQckFmWXZNM3Z6Y3Bhel95MjQ3eS1aNWZWdDJVbzVhZTVxY0lpQ3lRWmtiT0k3dTBKMERwNWM1ai04Zw?oc=5"
         },
@@ -2052,7 +2058,7 @@
           "title": "'EPL 감독 경질 예상 순위 TOP 20' … 맨유 캐릭 '5위', 토트넘 데 제르비 '3위'",
           "source": "뉴데일리",
           "publishedAt": "2026-09-15T08:00:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0c5MUJUTXJRVTBHd0dPTnFsTlhBSTc5VjFrbEl5aHVzZnkwU0k5U3lwTmZtN3dJUzhtRlRKVkoyM3RKVDJpNFdoX3pyLUZEbkJNN216Q2FWM0UzSmJMbTRDNEdJaldzYlFYd290RENpSUlKVGwwNWdSaF94R2VkV9IBgAFBVV95cUxQN0c5MUJUTXJRVTBHd0dPTnFsTlhBSTc5VjFrbEl5aHVzZnkwU0k5U3lwTmZtN3dJUzhtRlRKVkoyM3RKVDJpNFdoX3pyLUZEbkJNN216Q2FWM0UzSmJMbTRDNEdJaldzYlFYd290RENpSUlKVGwwNWdSaF94R2VkVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kcWNyNHd1QmpMRTJQNks0SHdrdnVtWDBRNjBuam8xMm5Fc1FjcllWVExKWGNNU0R1dmE1YTFKYld1TE1ZMi1BbW1FWGExbDFLby0zbjJ2ZmNvRUZhcDcxbnkzdEFFdGw0UzZYcTRGZENtdUhCaTFpbVJkQdIBgAFBVV95cUxQN0c5MUJUTXJRVTBHd0dPTnFsTlhBSTc5VjFrbEl5aHVzZnkwU0k5U3lwTmZtN3dJUzhtRlRKVkoyM3RKVDJpNFdoX3pyLUZEbkJNN216Q2FWM0UzSmJMbTRDNEdJaldzYlFYd290RENpSUlKVGwwNWdSaF94R2VkVw?oc=5"
         },
         {
           "title": "[오피셜] '토트넘서 더 뛸 생각하지 마!' 손흥민 절친, 컵 대회도 못 뛴다…리버풀전 소집 명단 제외되자 데 제르비 감독 저격까지",
@@ -2065,15 +2071,9 @@
           "source": "조선일보",
           "publishedAt": "2026-09-15T02:04:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDFiYlJyeWdicHJLckVPSWtVVUFka0phLVJuSUtUbVN2MG1fVUJPU0VZZ3pWTWdmVG9vYlFsdGljX3lWNEMxNnAwd2lYWnFESXYxek05OFhKUGRza2dOdGVVMjlJVmZvNW4tNGdoR01VcVdmSWhudE1IeWJzbDBya3ZmRktYUnZELVFn?oc=5"
-        },
-        {
-          "title": "'콩가루 집안' 토트넘, SNS로 구단과 기싸움 벌이는 히샤를리송",
-          "source": "v.daum.net",
-          "publishedAt": "2026-09-15T01:37:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zZnJVMElZYkdBV3BtUHh4VmZJUExLWlJLYTZ1MF82bDJDWTF3T05HNDJISmRvY3A5eFlNWERSa0pyclVFWl9FNnVqODJKdW8?oc=5"
         }
       ],
-      "newsFetchedAt": "2026-09-15T22:40:53.662Z",
+      "newsFetchedAt": "2026-09-15T23:13:45.899Z",
       "newsStale": false,
       "logoOriginal": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png"
     },
@@ -2088,7 +2088,7 @@
       "logo": "./assets/crests/a14c7ff20ffadb1e.png",
       "league": "라리가",
       "source": "FotMob",
-      "fetchedAt": "2026-09-15T22:40:53.662Z",
+      "fetchedAt": "2026-09-15T23:13:45.899Z",
       "stale": false,
       "matches": [
         {
@@ -2119,7 +2119,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/sevilla-vs-atletico-madrid/2qpc8y#5868040",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -2158,7 +2158,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/athletic-club-vs-atletico-madrid/2queyl#5868042",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -2197,7 +2197,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/liverpool-vs-atletico-madrid/2uigag#6106246",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "17",
@@ -2261,7 +2261,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-sociedad-vs-atletico-madrid/2tiqrp#5868058",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "84",
@@ -2325,7 +2325,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/osasuna-vs-atletico-madrid/2rgbip#5868062",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2364,7 +2364,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-atletico-madrid/2ubozo#5868072",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2403,7 +2403,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/deportivo-alaves-vs-atletico-madrid/38dxso#5868081",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2442,7 +2442,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/atletico-madrid-vs-manchester-united/3d2krr#6106267",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2481,7 +2481,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/espanyol-vs-atletico-madrid/2thy9u#5868094",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2520,7 +2520,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/atletico-madrid-vs-vfb-stuttgart/3d6gui#6106397",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2559,7 +2559,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/deportivo-coruna-vs-atletico-madrid/37eu5r#5868103",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -2592,7 +2592,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401882834/deportivo-atletico-madrid",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -2624,7 +2624,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/levante-vs-atletico-madrid/2tr25y#5868117",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2663,7 +2663,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/bayern-munchen-vs-atletico-madrid/37vqh7#6106266",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -2696,7 +2696,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401915386/bayern-munich-atletico-madrid",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -2728,7 +2728,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/barcelona-vs-atletico-madrid/2uc3ao#5868121",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -2744,7 +2744,7 @@
         "league": "라리가",
         "leagueId": "87",
         "season": "2026/2027",
-        "fetchedAt": "2026-09-15T22:40:53.662Z",
+        "fetchedAt": "2026-09-15T23:13:45.899Z",
         "source": "FotMob",
         "sourceUrl": "https://www.fotmob.com/leagues/87/overview/laliga",
         "rows": [
@@ -3032,22 +3032,28 @@
       },
       "news": [
         {
-          "title": "`이강인 대신 교체 출전` 아틀레티코 마드리드 주장, 라리가 역사 썼다",
-          "source": "마이데일리",
-          "publishedAt": "2026-09-15T20:05:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuejNNRTQ4WUtpSmxhMDZQRlktNEZoMjdIRzRVSE8wal91Znh3Z3hnOG5NU3Z0bEFxMTFWaWlGb0RCNkU2TUdVTmRiMmpVQ2doUkpORzJhQzBGZlEycmxTR29fSXhWUQ?oc=5"
+          "title": "\"ATM 공격수들 부상 이탈\" 믿을 건 이강인뿐! 오사수나전, 시메오네 '조기 교체 버튼' 부술까 - 머니투데이",
+          "source": "머니투데이",
+          "publishedAt": "2026-09-15T22:48:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQ3FXX1NEWUpmS1ZPektlOHFGdWhZSTNwakdDQ3M3UUJ0NUtqUmN5UWFRRFhaMGFjb0MzRUVDRzZWZlhFVnRwdzdWX0JVWGhEWDdzc2g4X3pRRXZGWVhXYzJzOXNPUWg1N1HSAW9BVV95cUxObHlMWVJjeTlIUWhoam8tRDFsWmtOdmxjaEk5eEExYTVIdE56eFZUQmoyS1lORHRGSExacDdmWF9RaHNtb1BFNEdwd1ROc2pJNUU5WlN2Zk9zVkxRc2RlWVVqQTRVZUdrT3FxY0xSbG8?oc=5"
+        },
+        {
+          "title": "\"ATM 공격수들 부상 이탈\" 믿을 건 이강인뿐! 오사수나전, 시메오네 '조기 교체 버튼' 부술까",
+          "source": "starnewskorea.com",
+          "publishedAt": "2026-09-15T22:48:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lN1dqSDg3cnprTWktc1ZlMEFxMmRrdUQtVnpZMHJIdHZMQlNWZmg5bGxNUlBNTnYyeUhpSG9oREpscnk0SS1KVU5xdWcyR1l1N0F3RUFDZ2RfWVYyWEQwM2M3dlk3NHMxcVp5azFUV1dKbzVlSWc?oc=5"
+        },
+        {
+          "title": "'이강인 대신 교체 출전' 아틀레티코 마드리드 주장, 라리가 역사 썼다",
+          "source": "v.daum.net",
+          "publishedAt": "2026-09-15T20:06:51.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lTWw3T2U1MVMyMHRzM3RQcEN4eUMyMUdZLWk2NGhobzE0V25SZ1B0c3BDSG80eDItY0Q3ODZCa1BCQnNBM0pTYjJkaXA3amM?oc=5"
         },
         {
           "title": "이강인 대신 출전해 아틀레티코 마드리드 데뷔골…'경쟁 치열해진다, 오사수나전 선발 출격 전망'",
           "source": "v.daum.net",
           "publishedAt": "2026-09-15T14:02:51.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hTllFTDJka0RvVl84MXVjMDR2NjBQczd6TFhWYTRrQXpRSjRnUHJkc3ZuVXRSVklJVzJfb05lbW1fODAxM1E?oc=5"
-        },
-        {
-          "title": "이강인과 호흡 맞출 시간도 없는데 또 이탈...알바레스, 바르사 이적 실패 뒤 이번엔 허벅지 부상 - 머니투데이",
-          "source": "머니투데이",
-          "publishedAt": "2026-09-15T13:30:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMVZoUHpBVDhYMVFuZ0lIZVh5dmVxdGk5dnM2cDhJTE9Jc3gzaldRaXY4UHRkRVU0NXNOZGJlVU5qM2FfblNLWjBDLXBDMDVLYURpLXN2c0xwZ1hqMTQ3bDFrdnNUektvZWo4Y3BKRdIBb0FVX3lxTE9YMVZoUHpBVDhYMVFuZ0lIZVh5dmVxdGk5dnM2cDhJTE9Jc3gzaldRaXY4UHRkRVU0NXNOZGJlVU5qM2FfblNLWjBDLXBDMDVLYURpLXN2c0xwZ1hqMTQ3bDFrdnNUektvZWo4Y3BKRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94RzFHX0NzV3BGZ2ZZRWpjc2hKTVFjdllrMnBFRDdSUE9KamNEMFZlc1hSYkx4U0JrNmpLUUh4Q2pJeEp4NHhxQThZMEc4QmRCS3ZETw?oc=5"
         },
         {
           "title": "'강인아, 주중 오사수나전 부탁해' 아틀레티코 에이스 알바레즈 '허벅지' 부상으로 두 경기 연속 결장..대신 주말 빅매치 '마드리드 더비'로 복귀",
@@ -3058,8 +3064,8 @@
         {
           "title": "아틀레티코 마드리드 완승에도 이강인은 혹평…'볼 터치가 너무 많다'",
           "source": "v.daum.net",
-          "publishedAt": "2026-09-15T06:31:49.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IRXZ2cnlPVFBtODNlTVFzZ2kzTHNqak50WWF2WEZZRWdsaHFObmZ0ZHJwWndKTFV5U21EcjdOaU1JVlNrNVFERW9IQQ?oc=5"
+          "publishedAt": "2026-09-15T06:31:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnZ1dXRHR2OEo1RHd4WTdJeE5RemtPT3N4bXc2eUVwRnZueFEtS015NjRGTmp3SFFsWmd2TVpHdmN3WDgtblE?oc=5"
         },
         {
           "title": "\"LEE 공 너무 오래 끈다\" 그리즈만 '원터치 플메'와 비교…이적료 630억+등번호 7 향한 눈높이 매섭다",
@@ -3072,15 +3078,9 @@
           "source": "조선일보",
           "publishedAt": "2026-09-14T22:58:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTUhROER3MXNzUWpILXgxMjNwN3BOLXFFcEt1YWo2RkI4ZWhjRV80R0tZa3lWajdtUmlDN08xYWRLYVdadTJ5bFVNVXJTeGRrYjZXZjBFREtDRHpqbWthaWp4T21WeFpISTJQVUF5SVBRTmlEZTk0cWFxZlNucjVpeEN3NVVmZF9MSmlj?oc=5"
-        },
-        {
-          "title": "이강인 아틀레티코 이적 후 '최악의 평가'...현지 매체 \"갈수록 영향력 감소, LEE 교체 후 반등\" 혹평! 시메오네 감독도 \"이길 것 같은 느낌 없었다\"",
-          "source": "v.daum.net",
-          "publishedAt": "2026-09-14T20:35:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JWUNzZ2pjenNZYnpVNVd6RWNMQV85MDRoYVVqcXpyVHZsOE1RQ2ZtUnJfTGZYUGVzOVVEcGlLN3FqNDBCX18teXBuemNEbUE?oc=5"
         }
       ],
-      "newsFetchedAt": "2026-09-15T22:40:53.662Z",
+      "newsFetchedAt": "2026-09-15T23:13:45.899Z",
       "newsStale": false,
       "logoOriginal": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png"
     },
@@ -3095,7 +3095,7 @@
       "logo": "./assets/crests/9af519a56d463895.png",
       "league": "라리가",
       "source": "FotMob",
-      "fetchedAt": "2026-09-15T22:40:53.662Z",
+      "fetchedAt": "2026-09-15T23:13:45.899Z",
       "stale": false,
       "matches": [
         {
@@ -3126,7 +3126,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-inter/2gsapf#6106242",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending"
         },
@@ -3159,7 +3159,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401915451/internazionale-real-madrid",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending"
         },
@@ -3191,7 +3191,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/rayo-vallecano-vs-real-madrid/2e2lhn#5868057",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "14",
@@ -3271,7 +3271,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-elche/2ycx1c#5868065",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "25",
@@ -3351,7 +3351,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-atletico-madrid/2ubozo#5868072",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3390,7 +3390,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-villarreal/2xnfqu#5868089",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3429,7 +3429,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-roma/2hatyy#6106274",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -3462,7 +3462,7 @@
           "neutral": false,
           "source": "ESPN",
           "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401915414/real-madrid-as-roma",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable"
         },
@@ -3494,7 +3494,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/sevilla-vs-real-madrid/2ddv45#5868098",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3533,7 +3533,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-rb-leipzig/81hwp83#6106244",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3572,7 +3572,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-barcelona/2grk20#5868105",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3611,7 +3611,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-racing-santander/2hejnl#5868118",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3650,7 +3650,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/aek-athens-vs-real-madrid/2g1c0n#6106401",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3689,7 +3689,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-valencia/2ycigb#5868129",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3728,7 +3728,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-celta-vigo/2uda7y#5868139",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3767,7 +3767,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/real-madrid-vs-psv-eindhoven/2gts0l#6106243",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -3783,7 +3783,7 @@
         "league": "라리가",
         "leagueId": "87",
         "season": "2026/2027",
-        "fetchedAt": "2026-09-15T22:40:53.662Z",
+        "fetchedAt": "2026-09-15T23:13:45.899Z",
         "source": "FotMob",
         "sourceUrl": "https://www.fotmob.com/leagues/87/overview/laliga",
         "rows": [
@@ -4119,7 +4119,7 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zZ1ExSHN1UTV5QVNuTmdGSHJTWVc4UTRMazgxR20ySVltcEZQSVRTWkhaalUyR0VBMzVIdHRGS0hFOGdXbmk1dU05QQ?oc=5"
         }
       ],
-      "newsFetchedAt": "2026-09-15T22:40:53.662Z",
+      "newsFetchedAt": "2026-09-15T23:13:45.899Z",
       "newsStale": false,
       "logoOriginal": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png"
     },
@@ -4132,7 +4132,7 @@
       "logo": "./assets/crests/d284b3ea0475f306.png",
       "league": "K리그 1",
       "source": "FotMob",
-      "fetchedAt": "2026-09-15T22:40:53.662Z",
+      "fetchedAt": "2026-09-15T23:13:45.899Z",
       "stale": false,
       "matches": [
         {
@@ -4163,7 +4163,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/jeonbuk-hyundai-motors-fc-vs-incheon-united/7fpyp49#5140015",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -4202,7 +4202,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/fc-seoul-vs-incheon-united/bsbif1l#5140021",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "pending",
           "alternative": {
@@ -4241,7 +4241,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-bucheon-fc-1995/20w6nu1x#5140024",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "33",
@@ -4305,7 +4305,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-ulsan-hd-fc/ggzwgw0#5140032",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [
             {
               "minute": "53",
@@ -4369,7 +4369,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-daejeon-hana-citizen/gh0jfey#5140040",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -4408,7 +4408,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-gangwon-fc/khfpglp#5139990",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -4447,7 +4447,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/pohang-steelers-vs-incheon-united/dld2kvl#5140044",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -4486,7 +4486,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-gangwon-fc/khfpglp#5140052",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -4525,7 +4525,7 @@
           },
           "source": "FotMob",
           "sourceUrl": "https://www.fotmob.com/matches/incheon-united-vs-jeju-sk/gh07y5f#5140057",
-          "fetchedAt": "2026-09-15T22:40:53.662Z",
+          "fetchedAt": "2026-09-15T23:13:45.899Z",
           "goals": [],
           "goalsStatus": "not-applicable",
           "alternative": {
@@ -4541,7 +4541,7 @@
         "league": "K리그 1",
         "leagueId": "9080",
         "season": "2026",
-        "fetchedAt": "2026-09-15T22:40:53.662Z",
+        "fetchedAt": "2026-09-15T23:13:45.899Z",
         "source": "FotMob",
         "sourceUrl": "https://www.fotmob.com/leagues/9080/overview/k-league-1",
         "rows": [
@@ -4729,6 +4729,12 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JRUlIbnFIN1R3a3Ffc3hGbUQ2YWNVTGxlODNPakc2MTltN1ExeDg1b1BfTDhXaUNoaTc3X2EzQVp4eGNIVWRzdVNKQQ?oc=5"
         },
         {
+          "title": "[GOAL 울산] 석패에 아쉬움 표한 인천 윤정환 감독 \"따라가려는 의지 보였지만…감독인 내 힘 부족\"",
+          "source": "Goal.com",
+          "publishedAt": "2026-09-12T18:40:21.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiwglBVV95cUxNcFN4eXNtTS1CMEMzV256RDIxVE10N1k0N1BfRFR6a2M4amlXNlUzVG5fbWFGYm9DdEgwdG9FXzZmY3FCYmNYS3ZDTXpNTm9ETC0zS2tsaFJTdDB0ci1Sa0hlWTFrb2tTZkg5WFkzZ0l3ampJdkR4ckJnZXRsNTltaXk0bktUYTgzRXNPSzZQUHZOOXVBVHE2dnlPdjhZZTlHM1NVQUxuc0h2aVljcWIzUVJQS2dzVDYwRmRabE9CRUZGT1JGVThpMUpoUGpBRFZ4NDNueDQzczhHSlUyeEpZOFNzZVBXdEhfc0VjQWdMeWNFd2g3MV83ZXRfY3lQaUpyTkRSUU5JSzQ5TlRhTzY1QlNhc2x0UjZhRm1KcURMYzVFR2dubmZKYmVyb0Y0R2pHUDJiS2dnX25UYUZlZW80ekZXTHp1VU41dHB6NXBXTkVQVVZXZjBQUjQxeUpTLVYtSnNTRFF4SGZHdnd0Rm9YZEwzWXpzZnNfZUM5d19xWUd1UGQ4UmFFd2FCa1ZNbVd1NWdqSzFkXzVsUXJwWUpuWXFCTkxYWXBmampPVEhHeVNfaFZDaWFTaTR2T2xNblNHLVAyYTJGTTVFZ2MzTUdlZjZCZVpBQ0w0NDhkRFU0NXZkZkU3eDJyRGtWWmkybi1EMGN3MjZZOWZ1WUFPazEyUGZGX1NCaVRKS196ZDZvbkUwRkRVTmR4aFA3QlBtX05KY0dSNDhuMUtQMU8wSjJMZ0V2cnU5Z09jWXRnLUdNQnpUQXNYUjg2dmpjdldGN1dDSWpvYXRUY0pGVzdKTmhqa0tJYmZ2YXN5eld4ekNTVDJXTUxjekZ1R2RYWVhuZVcwMEFibElBRDhKR0dwZnZmUF9aa0MybXpNQ2NMMWxONVpqZTlDREVRTUluSVF0aVNoejN2RnFINmk3TTdqbXpyVEQzUmNIMlMyamdpYTVqT3VTak1nVHZZLXF0N0NnM3BGSHIxTXhVUzBQcU5kdFBkaDZjQU5ISHY3OXdBcUhEdWRhRFJlU0E0Q3hzUHZoWGZPRF9sVXE4bU9kQTItbi1MZUlBMTBCNV9Hc3BScWNtaTlCVXVjOWVLOXZsZEJCdVA5allsbzhYTnJmZmRUS25BQlc3MkM3QlV4YzhpYzc1czdraVlUT3I5R05oSHRwTVQtWXg1U2JsNk1JRnJXOENhZjJQSEdCcENFUUM1TEY2d3JYcUxPQVpjdFBINVMzeWFMMExqMlpEcnRVUmlTV0h2bjJicnZvQXV6TllsOG9YN0FQR1pTbU9UU2NxOEZobElucHZWLURiWW9sSEZNMFRua0V0c213Tkg1N3JtZFpldmdtQTJBUG9JYWdwZ2QwWmQySXkwLTUxbmdUblJROFRNMHloU29NSkhlT0E4UTcxVzRzMVVveXM0TkUwdUxGT2hxeml0WjZRcW1PX3dGSHkxN01yb3NxNnp4NEo3NkdZdzhWZk9wbFpYRHp3UTgzdHp6V2pRMFVGd2gzVFZZdEZIbTl1eHRYOHhmRXZkZVMycGxBaURWWjAtcE5iWG5sZEc2VmF3ZE5fRjQ3OVl2Mlg0ZF9kRHJXMUhWbTdINHE2cWFiOFRhVW52b1Bub3dnSWRtX2c?oc=5"
+        },
+        {
           "title": "[포토] 탈압박을 시도하는 인천유나이티드의 이청용",
           "source": "스포르티보 미디어",
           "publishedAt": "2026-09-12T10:27:46.000Z",
@@ -4757,15 +4763,9 @@
           "source": "조선일보",
           "publishedAt": "2026-09-12T07:27:00.000Z",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb3FLNXgwR19mekNXQ0J2ZWhKOHA0SVpHbXBsNHhINTFPd05tREpRSFZOTnZPMmduc3pQM2twOVNBSVFYNGt4RGZoV3pVRTZTc2VLX2hHd2NYR2JjeHpaT3pXZVgxYkdiQ0s1d2QzbThmVHgtRG9MeFBzRjFrZk1GeUpaaw?oc=5"
-        },
-        {
-          "title": "프로축구연맹, 인천전 걸개와 관련 서울에 제재금 800만 원 부과",
-          "source": "v.daum.net",
-          "publishedAt": "2026-09-10T10:05:00.000Z",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sWThBd2NpUUFGOFM4Rks5Y3lCUHVtckpsQ2FkaFVRZ2lNZnhEWV9ZNF9BTDdRb1AtWFZwWVBoUHdTTjNNNzVkbVdzaw?oc=5"
         }
       ],
-      "newsFetchedAt": "2026-09-15T22:40:53.662Z",
+      "newsFetchedAt": "2026-09-15T23:13:45.899Z",
       "newsStale": false,
       "logoOriginal": "https://images.fotmob.com/image_resources/logo/teamlogo/133895.png"
     }
